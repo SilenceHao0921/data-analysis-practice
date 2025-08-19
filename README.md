@@ -44,7 +44,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 03-影像處理、文字資料處理
 → 綜合練習：影像矩陣操作 + 學生資料解析。
 
-[03 影像處理、文字資料處理](03影像處理,文字資料處理.ipynb)
+[03 影像處理-文字資料處理](03影像處理-文字資料處理.ipynb)
 
 <img width="568" height="299" alt="image" src="https://github.com/user-attachments/assets/facf8dbf-c361-4e6e-92a1-0774ae08cbed" />
 
