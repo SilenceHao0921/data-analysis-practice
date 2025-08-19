@@ -65,7 +65,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 [04-2 影像矩陣轉換練習](04-2影像矩陣轉換練習.ipynb)
 
 
-## 05-從文字檔到 DataFrame：成績統計與年齡計算
+## 05-從文字檔到DataFrame-成績統計與年齡計算
 
 [05 從文字檔到DataFrame-成績統計與年齡計算](05從文字檔到DataFrame-成績統計與年齡計算.ipynb)
 
