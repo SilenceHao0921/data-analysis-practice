@@ -8,7 +8,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 1. [01 字串解析並存入 (字典和串列) 結構](01字串解析並存入(字典和串列)結構.ipynb)  
 2. [02-1 次隨圖用展現](02-1次隨圖用展現.ipynb)  
-3. [02-2 圖片範例](02-2圖片範例.ipynb)  
+3. [02-2 照片範例](02-2照片範例.ipynb)  
 4. [03 影像處理、文字資料處理](03影像處理,文字資料處理.ipynb)  
 5. [04-1 計算平均與年齡, 用 NumPy 篩出 100 分](04-1計算平均與年齡,用NumPy篩出100分.ipynb)  
 6. [04-2 影像矩陣轉換練習](04-2影像矩陣轉換練習.ipynb)  
@@ -32,7 +32,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 02-2 照片範例
 → 讀取 JPG 圖片並進行矩陣處理。
-[02-2 圖片範例](02-2圖片範例.ipynb)
+[02-2 照片範例](02-2照片範例.ipynb)
 <img width="544" height="320" alt="image" src="https://github.com/user-attachments/assets/0ca63018-84f1-49c6-9e15-4ae1c12d8eb0" />
 <img width="722" height="195" alt="image" src="https://github.com/user-attachments/assets/f8313ce4-6be9-4945-8bc4-918c5c62b4fd" />
 
