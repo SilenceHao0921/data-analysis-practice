@@ -45,7 +45,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 <img width="722" height="195" alt="image" src="https://github.com/user-attachments/assets/f8313ce4-6be9-4945-8bc4-918c5c62b4fd" />
 
 
-## 03-影像處理、文字資料處理
+## 03-影像處理-文字資料處理
 → 綜合練習：影像矩陣操作 + 學生資料解析。
 
 [03 影像處理-文字資料處理](03影像處理-文字資料處理.ipynb)
@@ -55,7 +55,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 # 04 ~ 05. 學生資料處理
 
-## 04-1 讀取文字學生成績，用NumPy篩出100分學生
+## 04-1 讀取文字學生成績-用NumPy篩出100分學生
 
 [04-1 計算平均與年齡-用NumPy篩出100分](04-1計算平均與年齡-用NumPy篩出100分.ipynb)
 
