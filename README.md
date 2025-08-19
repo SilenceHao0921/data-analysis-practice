@@ -5,7 +5,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 這個專案紀錄了我在 Python / Pandas / NumPy / Matplotlib 學習過程中的練習 Notebook，內容包含文字資料處理、影像矩陣處理、股市資料分析與資料視覺化。
 
 ## 📘 Notebook List
-- [01~03 字串與影像處理](#01-03-字串與影像處理)
+[01~03 字串與影像處理](#01~03-字串與影像處理)
 [01 字串解析並存入-字典和串列-結構](#01-字串解析並存入-字典和串列-結構)  
 [02-1 灰階圖片展現](#02-1-灰階圖片展現)  
 [02-2 照片範例](#02-2-照片範例) 
@@ -23,7 +23,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 1[08 遊客資料分析Excel資料清理樞紐化折線圖與圓餅圖展示](#08-遊客資料分析excel資料清理樞紐化折線圖與圓餅圖展示)
 
 
-# 01~03-字串與影像處理
+# 01~03 字串與影像處理
 
 ## 01 字串解析並存入-字典和串列-結構
 → 文字檔解析，轉換為串列 / 字典結構。
