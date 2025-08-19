@@ -21,7 +21,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 # 01 ~ 03. 字串與影像處理
 
-## 01-字串解析並存入-字典和串列-結構
+## 01 字串解析並存入-字典和串列-結構
 → 文字檔解析，轉換為串列 / 字典結構。
 
 [01 字串解析並存入 (字典和串列) 結構](01字串解析並存入(字典和串列)結構.ipynb) 
