@@ -8,11 +8,13 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 ## [01~03 字串與影像處理](#01~03-字串與影像處理)
 [01 字串解析並存入-字典和串列-結構](#01-字串解析並存入-字典和串列-結構)  
 [02-1 灰階圖片展現](#02-1-灰階圖片展現)  
-[02-2 照片範例](#02-2-照片範例)  
+[02-2 照片範例](#02-2-照片範例) 
 [03 影像處理-文字資料處理](#03-影像處理-文字資料處理)  
+## [04~05 學生資料處理](#04~05-學生資料處理)
 [04-1 計算平均與年齡-用numpy篩出100分](#04-1-計算平均與年齡-用numpy篩出100分)  
 [04-2 影像矩陣轉換練習](#04-2-影像矩陣轉換練習)  
 [05 從文字檔到dataframe-成績統計與年齡計算](#05-從文字檔到dataframe-成績統計與年齡計算)  
+## [06~08 股價與資料分析](#06~08-股價與資料分析)
 [06 pandas練習-股價資料清理與學生年齡計算](#06-pandas練習-股價資料清理與學生年齡計算)  
 [07-1 pandas-模組合併股票-csv-檔為範例](#07-1-pandas-模組合併股票-csv-檔為範例)  
 [07-2 xlsx-資料排版練習](#07-2-xlsx-資料排版練習)  
@@ -53,7 +55,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 <img width="568" height="299" alt="image" src="https://github.com/user-attachments/assets/facf8dbf-c361-4e6e-92a1-0774ae08cbed" />
 
 
-# 04 ~ 05. 學生資料處理
+# 04~05 學生資料處理
 
 ## 04-1 計算平均與年齡-用numpy篩出100分
 
@@ -85,7 +87,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
     每個儲存格只包含一個數值，不能包含多個數值或文字。 這樣可以避免混淆和錯誤。
 
 
-# 06 ~ 08. 股價與資料分析
+# 06~08 股價與資料分析
 
 ## 06-Pandas 資料處理：股價 CSV 清理與 K 線圖繪製
 
