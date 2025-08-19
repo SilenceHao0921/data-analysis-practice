@@ -12,7 +12,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 4. [03 影像處理-文字資料處理](#03-影像處理-文字資料處理)  
 5. [04-1 計算平均與年齡-用numpy篩出100分](#04-1-計算平均與年齡-用numpy篩出100分)  
 6. [04-2 影像矩陣轉換練習](#04-2-影像矩陣轉換練習)  
-7. [05 從文字檔到-dataframe-成績統計與年齡計算](#05-從文字檔到-dataframe---成績統計與年齡計算)  
+7. [05 從文字檔到dataframe-成績統計與年齡計算](#05-從文字檔到dataframe-成績統計與年齡計算)  
 8. [06 pandas練習-股價資料清理與學生年齡計算](#06-pandas練習-股價資料清理與學生年齡計算)  
 9. [07-1 pandas-模組合併股票-csv-檔為範例](#07-1-pandas-模組合併股票-csv-檔為範例)  
 10. [07-2 xlsx-資料排版練習](#07-2-xlsx-資料排版練習)  
@@ -67,7 +67,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 ## 05-從文字檔到 DataFrame：成績統計與年齡計算
 
-[05 從文字檔到 DataFrame - 成績統計與年齡計算](05從文字檔到DataFrame-成績統計與年齡計算.ipynb)
+[05 從文字檔到DataFrame-成績統計與年齡計算](05從文字檔到DataFrame-成績統計與年齡計算.ipynb)
 
 ### 整潔資料(Tidy Data)
 **是一種數據組織的標準，強調資料表的每一列、每一行、每一個儲存格都有特定的意義**
