@@ -16,7 +16,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 8. [06 pandas練習-股價資料清理與學生年齡計算](#06-pandas練習-股價資料清理與學生年齡計算)  
 9. [07-1 pandas-模組合併股票-csv-檔為範例](#07-1-pandas-模組合併股票-csv-檔為範例)  
 10. [07-2 xlsx-資料排版練習](#07-2-xlsx-資料排版練習)  
-11. [08 遊客資料分析](#08-遊客資料分析)
+11. [08 遊客資料分析-Excel-資料清理、樞紐化、折線圖與圓餅圖展示](#08遊客資料分析-Excel-資料清理、樞紐化、折線圖與圓餅圖展示)
 
 
 # 01 ~ 03. 字串與影像處理
@@ -108,7 +108,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 [07-2 XLSX 資料排版練習](07-2XLSX資料排版練習.ipynb)
 
 
-## 08-遊客資料分析 → Excel 資料清理、樞紐化、折線圖與圓餅圖展示
+## 08 遊客資料分析-Excel-資料清理、樞紐化、折線圖與圓餅圖展示
 
 [08 遊客資料分析](08遊客資料分析.ipynb)
 
