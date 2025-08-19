@@ -31,6 +31,8 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 ## 06 ~ 08. 股價與資料分析
 
 06-Pandas 資料處理：股價 CSV 清理與 K 線圖繪製
+<img width="733" height="350" alt="image" src="https://github.com/user-attachments/assets/5f848836-7bf2-43ce-8735-87fe55fc216f" />
+
 
 07-1 pandas 模組合併股票 CSV 檔為範例
 
