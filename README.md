@@ -23,7 +23,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 1[08 遊客資料分析Excel資料清理樞紐化折線圖與圓餅圖展示](#08-遊客資料分析excel資料清理樞紐化折線圖與圓餅圖展示)
 
 
-# 01~03 字串與影像處理
+# 01~03-字串與影像處理
 
 ## 01 字串解析並存入-字典和串列-結構
 → 文字檔解析，轉換為串列 / 字典結構。
