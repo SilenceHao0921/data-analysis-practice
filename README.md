@@ -6,7 +6,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 ## 📘 Notebook List
 
-1. [01 字串解析並存入(字典和串列)結構](#01-字串解析並存入(字典和串列)結構)  
+1. [01 字串解析並存入-字典和串列-結構](#01-字串解析並存入-字典和串列-結構)  
 2. [02-1 灰階圖片展現](#02-1-灰階圖片展現)  
 3. [02-2 照片範例](#02-2-照片範例)  
 4. [03 影像處理-文字資料處理](#03-影像處理-文字資料處理)  
@@ -21,7 +21,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 # 01 ~ 03. 字串與影像處理
 
-## 01-字串解析並存入(字典和串列)結構
+## 01-字串解析並存入-字典和串列-結構
 → 文字檔解析，轉換為串列 / 字典結構。
 
 [01 字串解析並存入 (字典和串列) 結構](01字串解析並存入(字典和串列)結構.ipynb) 
