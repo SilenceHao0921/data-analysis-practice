@@ -118,7 +118,7 @@ Excel / CSV / TXT：不同來源資料的讀取與轉換
 
 - ## 📝 心得
 
-透過這些練習，除了Pandas、NumPy 和 Matplotlib 的基本操作，也學到以下幾點：
+透過這些練習，除了Pandas、NumPy 和 Matplotlib 的基本操作，也學到:
 
 資料處理比想像中複雜不同來源（TXT、CSV、Excel、影像）需要不同方法清理與轉換。
 同一組資料，透過折線圖、圓餅圖或 K 線圖，能帶來完全不同的洞察。
