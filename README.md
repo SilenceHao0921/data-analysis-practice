@@ -33,6 +33,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 [02-1 灰階圖片展現](02-1灰階圖片展現.ipynb) 
 
 <img width="395" height="428" alt="image" src="https://github.com/user-attachments/assets/2f053234-e5ca-4451-a7c8-8c23b88d7eef" />
+<img width="662" height="763" alt="image" src="https://github.com/user-attachments/assets/4006470b-f816-4849-a40b-09fa11cc3165" />
 
 
 ## 02-2 照片範例
@@ -67,6 +68,21 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 ## 05-從文字檔到 DataFrame：成績統計與年齡計算
 
 [05 從文字檔到 DataFrame - 成績統計與年齡計算](05從文字檔到DataFrame-成績統計與年齡計算.ipynb)
+
+### 整潔資料(Tidy Data)
+**是一種數據組織的標準，強調資料表的每一列、每一行、每一個儲存格都有特定的意義**
+。 具體來說，整潔資料需要符合以下三個條件：每個變數是一個欄(column)，每個觀察值是一個列(row)，每個值是一個單一的儲存格。
+
+**以下是整潔資料的詳細解釋：**
+
+- **每個變數是一個欄(column):**
+    也就是說，資料表中的每一欄都代表一個單獨的變數，例如：年齡、性別、身高等等。 這樣可以確保每個變數都有明確的定義，並且方便後續的分析和操作。
+    
+- **每個觀察值是一個列(row):**
+    每一列代表一個單獨的觀察值或個案，例如：一個人的資料、一筆交易記錄等等。 這樣可以確保同一個觀察值的相關資料都被放在同一列，方便分析和比較。
+    
+- **每個值是一個儲存格(cell):**
+    每個儲存格只包含一個數值，不能包含多個數值或文字。 這樣可以避免混淆和錯誤。
 
 
 # 06 ~ 08. 股價與資料分析
