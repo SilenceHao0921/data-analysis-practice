@@ -6,7 +6,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 #Notebooks List
 
-01 ~ 03. 字串與影像處理
+## 01 ~ 03. 字串與影像處理
 
 01-字串解析並存入(字典和串列)結構
 → 文字檔解析，轉換為串列 / 字典結構。
@@ -20,7 +20,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 03-影像處理、文字資料處理
 → 綜合練習：影像矩陣操作 + 學生資料解析。
 
-04 ~ 05. 學生資料處理
+## 04 ~ 05. 學生資料處理
 
 04-1 讀取文字學生成績，用 NumPy 篩出 100 分學生
 
@@ -28,7 +28,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 05-從文字檔到 DataFrame：成績統計與年齡計算
 
-06 ~ 08. 股價與資料分析
+## 06 ~ 08. 股價與資料分析
 
 06-Pandas 資料處理：股價 CSV 清理與 K 線圖繪製
 
@@ -36,7 +36,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 07-2 XLSX 資料排版練習
 
-08-遊客資料分析 → Excel 資料清理、樞紐化、折線圖與圓餅圖展示
+## 08-遊客資料分析 → Excel 資料清理、樞紐化、折線圖與圓餅圖展示
 
 
 #技術重點
