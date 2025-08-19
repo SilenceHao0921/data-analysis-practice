@@ -13,7 +13,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 5. [04-1 計算平均與年齡,用NumPy篩出100分](04-1計算平均與年齡,用NumPy篩出100分.ipynb)  
 6. [04-2 影像矩陣轉換練習](04-2影像矩陣轉換練習.ipynb)  
 7. [05 從文字檔到 DataFrame - 成績統計與年齡計算](05從文字檔到DataFrame-成績統計與年齡計算.ipynb)  
-8. [06 Pandas 練習 - 股價資料清理與基本分析](06Pandas練習-股價資料清理與基本分析.ipynb)  
+8. [06 Pandas練習-股價資料清理與學生年齡計算](06Pandas練習-股價資料清理與學生年齡計算.ipynb)  
 9. [07-1 Pandas 模組合併股票 CSV 檔為範例](07-1pandas模組合併股票CSV檔為範例.ipynb)  
 10. [07-2 XLSX 資料排版練習](07-2XLSX資料排版練習.ipynb)  
 11. [08 遊客資料分析](08遊客資料分析.ipynb)
@@ -66,7 +66,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 06-Pandas 資料處理：股價 CSV 清理與 K 線圖繪製
 
-[06 Pandas 練習 - 股價資料清理與基本分析](06Pandas練習-股價資料清理與基本分析.ipynb)
+[06 Pandas練習-股價資料清理與學生年齡計算](06Pandas練習-股價資料清理與學生年齡計算.ipynb)
 
 <img width="653" height="465" alt="image" src="https://github.com/user-attachments/assets/6db6a1b0-571c-4209-b2af-ddb8968aac52" />
 <img width="653" height="463" alt="image" src="https://github.com/user-attachments/assets/cdc528db-7d42-4d97-bd66-9d4f072cfb75" />
