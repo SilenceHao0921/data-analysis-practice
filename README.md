@@ -55,7 +55,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 # 04 ~ 05. 學生資料處理
 
-## 04-1 讀取文字學生成績-用NumPy篩出100分學生
+## 04-1 計算平均與年齡-用numpy篩出100分
 
 [04-1 計算平均與年齡-用NumPy篩出100分](04-1計算平均與年齡-用NumPy篩出100分.ipynb)
 
