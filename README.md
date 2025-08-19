@@ -21,19 +21,19 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 ## 01 ~ 03. 字串與影像處理
 
-01-字串解析並存入(字典和串列)結構
+# 01-字串解析並存入(字典和串列)結構
 → 文字檔解析，轉換為串列 / 字典結構。
 
 [01 字串解析並存入 (字典和串列) 結構](01字串解析並存入(字典和串列)結構.ipynb) 
 
-02-1 灰階圖片展現
+# 02-1 灰階圖片展現
 → 使用 NumPy 建立矩陣並顯示灰階圖像。
 
 [02-1 灰階圖片展現](02-1灰階圖片展現.ipynb) 
 
 <img width="395" height="428" alt="image" src="https://github.com/user-attachments/assets/2f053234-e5ca-4451-a7c8-8c23b88d7eef" />
 
-02-2 照片範例
+# 02-2 照片範例
 → 讀取 JPG 圖片並進行矩陣處理。
 
 [02-2 照片範例](02-2照片範例.ipynb)
