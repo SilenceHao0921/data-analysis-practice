@@ -4,6 +4,18 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 這個專案紀錄了我在 Python / Pandas / NumPy / Matplotlib 學習過程中的練習 Notebook，內容包含文字資料處理、影像矩陣處理、股市資料分析與資料視覺化。
 
+1. [01 字串解析並存入 (字典和串列)](01字串解析並存入.ipynb)  
+2. [02-1 次隨圖用展現](02-1次隨圖用展現.ipynb)  
+3. [02-2 圖片範例](02-2圖片範例.ipynb)  
+4. [03 影像處理、文字資料處理](03影像處理,文字資料處理.ipynb)  
+5. [04-1 計算平均與年齡分布](04-1計算平均與年齡分布.ipynb)  
+6. [04-2 影像矩陣轉換練習](04-2影像矩陣轉換練習.ipynb)  
+7. [05 從文字檔到 DataFrame](05從文字檔到DataFrame.ipynb)  
+8. [06 Pandas 練習 - 股價資料分析](06Pandas練習-股價資料分析.ipynb)  
+9. [07-1 Pandas 樣組合併練習](07-1pandas樣組合併練習.ipynb)  
+10. [07-2 XLSX 資料排序與轉換](07-2XLSX資料排序與轉換.ipynb)  
+11. [08 遊客資料分析](08遊客資料分析.ipynb)
+
 #Notebooks List
 
 ## 01 ~ 03. 字串與影像處理
