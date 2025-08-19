@@ -10,7 +10,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 2. [02-1 灰階圖片展現](02-1灰階圖片展現.ipynb)  
 3. [02-2 照片範例](02-2照片範例.ipynb)  
 4. [03 影像處理、文字資料處理](03影像處理,文字資料處理.ipynb)  
-5. [04-1 計算平均與年齡,用NumPy篩出100分](04-1計算平均與年齡,用NumPy篩出100分.ipynb)  
+5. [04-1 計算平均與年齡-用NumPy篩出100分](04-1計算平均與年齡-用NumPy篩出100分.ipynb)  
 6. [04-2 影像矩陣轉換練習](04-2影像矩陣轉換練習.ipynb)  
 7. [05 從文字檔到 DataFrame - 成績統計與年齡計算](05從文字檔到DataFrame-成績統計與年齡計算.ipynb)  
 8. [06 Pandas練習-股價資料清理與學生年齡計算](06Pandas練習-股價資料清理與學生年齡計算.ipynb)  
@@ -52,7 +52,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 04-1 讀取文字學生成績，用NumPy篩出100分學生
 
-[04-1 計算平均與年齡，用NumPy篩出100分](04-1計算平均與年齡,用NumPy篩出100分.ipynb)
+[04-1 計算平均與年齡-用NumPy篩出100分](04-1計算平均與年齡-用NumPy篩出100分.ipynb)
 
 04-2 影像矩陣轉換練習
 
