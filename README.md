@@ -120,7 +120,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 
 ## 09 Tkinter基礎版面配置實作-Pack與Grid
 
-[09 Tkinter基礎版面配置實作-Pack與Grid](09Tkinter基礎版面配置實作-Pack與Grid.ipynb)
+[09 Tkinter基礎版面配置實作-Pack與Grid](09Tkinter基礎版面配置實作-Pack與Grid.ipynb)                   
 Pack Demo
 <img width="1000" height="616" alt="image" src="https://github.com/user-attachments/assets/bae76ba8-657d-424e-b519-6e1d5f681c6e" />
 
