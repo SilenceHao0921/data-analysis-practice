@@ -19,7 +19,7 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 [07-1 pandas-模組合併股票-csv-檔為範例](#07-1-pandas-模組合併股票-csv-檔為範例)  
 [07-2 xlsx-資料排版練習](#07-2-xlsx-資料排版練習)  
 [08 遊客資料分析Excel資料清理樞紐化折線圖與圓餅圖展示](#08-遊客資料分析excel資料清理樞紐化折線圖與圓餅圖展示)
-
+[09 Tkinter基礎版面配置實作-Pack與Grid](#09-Tkinter基礎版面配置實作-Pack與Grid)
 
 # 01~03 字串與影像處理
 
@@ -117,6 +117,19 @@ Jupyter notebooks for learning pandas, matplotlib, and data science basics.
 <img width="749" height="425" alt="image" src="https://github.com/user-attachments/assets/deafc09b-1c7f-4cec-be61-216e29b66baf" />
 <img width="735" height="604" alt="image" src="https://github.com/user-attachments/assets/1c3f0357-6e66-4a80-acca-f34aa9f39fe6" />
 <img width="615" height="592" alt="image" src="https://github.com/user-attachments/assets/25ce7675-80a1-4110-893a-719781cc6ad4" />
+
+## 09 Tkinter基礎版面配置實作-Pack與Grid
+
+[09 Tkinter基礎版面配置實作-Pack與Grid](09Tkinter基礎版面配置實作-Pack與Grid.ipynb)
+Pack Demo
+<img width="1000" height="616" alt="image" src="https://github.com/user-attachments/assets/bae76ba8-657d-424e-b519-6e1d5f681c6e" />
+
+Grid
+<img width="1010" height="548" alt="image" src="https://github.com/user-attachments/assets/4d017ca5-fc44-4004-9302-4a1b22f2d758" />
+<img width="1006" height="464" alt="image" src="https://github.com/user-attachments/assets/129c2516-5d67-4986-b684-f59a9d7626b5" />
+<img width="995" height="513" alt="image" src="https://github.com/user-attachments/assets/03ce6640-7b69-409c-b07f-8bc77c890c65" />
+
+
 
 
 ## 技術重點
